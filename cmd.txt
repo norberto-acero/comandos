@@ -1,0 +1,2 @@
+↓ para abrir todos los archivos en el folder activo:
+FOR %F IN (*.*) DO START "" "%F"
