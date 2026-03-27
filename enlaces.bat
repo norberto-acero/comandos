@@ -1,3 +1,4 @@
+cls
 start https://arena.ai/leaderboard
 start https://claude.ai/new
 start https://app.chathub.gg
@@ -19,3 +20,5 @@ start https://lovable.dev
 start https://www.charactercountonline.com
 start https://www.kimi.com
 start https://www.markdowntopdf.com/
+start https://replit.com/
+start https://gamma.app/
