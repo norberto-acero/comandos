@@ -22,3 +22,8 @@ start https://www.kimi.com
 start https://www.markdowntopdf.com/
 start https://replit.com/
 start https://gamma.app/
+start https://avi.unisabana.edu.co/chat/
+start https://openclaw.ai/
+start https://n8n.io/
+start https://aistudio.google.com/prompts/new_chat
+cls
