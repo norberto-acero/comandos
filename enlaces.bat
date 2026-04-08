@@ -6,7 +6,6 @@ start https://temp-mail.org/es/
 start https://gemini.google.com/
 start https://platform.openai.com/tokenizer
 start https://html.onlineviewer.net
-start https://github.com
 start https://notebooklm.google.com
 start https://www.reddit.com/r/PlaySpies/
 start https://chatgpt.com
@@ -22,7 +21,6 @@ start https://www.kimi.com
 start https://www.markdowntopdf.com/
 start https://replit.com/
 start https://gamma.app/
-start https://avi.unisabana.edu.co/chat/
 start https://openclaw.ai/
 start https://n8n.io/
 start https://aistudio.google.com/prompts/new_chat
